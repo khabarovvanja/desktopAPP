@@ -1,5 +1,5 @@
 # desktopAPP
-My desktop app for the course. Classification Cifar10. Deployed in PyQt.
+My desktop app for the course. Classification Cifar10. Deployed in PyQt.\n
 Run app. 
 ![Скриншот 11-03-2022 094449](https://user-images.githubusercontent.com/76103318/157816655-4e13cf23-728a-42a5-86e1-9a2774534bf5.jpg)
 
